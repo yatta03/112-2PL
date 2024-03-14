@@ -9,9 +9,10 @@ ___
 +  課程筆記區  
   
 +  作業連結區:  
-  [問卷前測](test/test1.ipynb)、[中測](test/test2.ipynb)(2024/2/22😼)  
-  [後測](w2/w2.ipynb)(2024/2/29)  
-	[pandas練習](w3/w3_practice.ipynb)(2024/3/7)  
+  [w1_問卷前測](test/test1.ipynb)、[中測](test/test2.ipynb)(2024/2/22😼)  
+  [w2_後測](w2/w2.ipynb)(2024/2/29)  
+	[w3_pandas練習](w3/w3_practice.ipynb)(2024/3/7)  
+	[w4_json練習](w4/json_prac.ipynb)(2024/3/14)
   --  
   [hw1](hw1/hw1.ipynb)  
   
