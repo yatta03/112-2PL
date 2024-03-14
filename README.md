@@ -8,12 +8,12 @@ computer programing class
 ___  
   
 +  課堂練習區:  
-  [w1_問卷前測](test/test1.ipynb)、[中測](test/test2.ipynb) (2024/2/22😼)  
-  [w2_後測](w2/w2.ipynb) (2024/2/29)  
-	[w3_pandas練習](w3/w3_practice.ipynb) (2024/3/7)  
-	[w4_json練習](w4/json_prac.ipynb) (2024/3/14)  
-  -- 
+	- [w1_問卷前測](test/test1.ipynb)、[中測](test/test2.ipynb)&nbsp;&nbsp;(2024/2/22😼)  
+	- [w2_後測](w2/w2.ipynb)&nbsp;&nbsp;(2024/2/29)  
+	- [w3_pandas練習](w3/w3_practice.ipynb)&nbsp;&nbsp;(2024/3/7)  
+	- [w4_json練習](w4/json_prac.ipynb)&nbsp;&nbsp;(2024/3/14)  
+  --- 
 + 作業區：  
-  [hw1](hw1/hw1.ipynb)  
+	- [hw1](hw1/hw1.ipynb)  
   
 +  專題連結區  
