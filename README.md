@@ -12,6 +12,7 @@ ___
 	- [w2_後測](w2/w2.ipynb)&nbsp;&nbsp;(2024/2/29)  
 	- [w3_pandas練習](w3/w3_practice.ipynb)&nbsp;&nbsp;(2024/3/7)  
 	- [w4_json練習](w4/json_prac.ipynb)&nbsp;&nbsp;(2024/3/14)   
+	- [w5_reg](w5/w5_reg.ipynb)&nbsp;&nbsp;(2024/03/21)  
 + 作業區：  
 	- [hw1](hw1/hw1.ipynb)  
   
