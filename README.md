@@ -15,5 +15,5 @@ ___
 	- [w5_reg](w5/w5_reg.ipynb)&nbsp;&nbsp;(2024/03/21)  
 + 作業區：  
 	- [hw1](hw1/hw1.ipynb)  
-  
+	- [hw2](hw2/hw2.ipynb)  
 +  專題連結區  

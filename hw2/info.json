@@ -1,0 +1,328 @@
+{
+  "race": {
+    "Yerles":{
+      "attribute":{
+        "Str":"Normal",
+        "Con":"Not bad",
+        "Dex":"Not bad",
+        "Per":"Not bad",
+        "Lea":"Great",
+        "Wil":"Not bad",
+        "Mag":"Not bad",
+        "Cha":"Normal",
+        "Life":110,
+        "Mana":90,
+        "Spd":70
+      },
+      "startingSkills":[
+        "Martial Arts",
+        "Firearms",
+        "Throwing",
+        "Literacy",
+        "Negotiation"
+      ]
+    },
+    "Eulderna":{
+      "attribute":{
+        "Str":"Normal",
+        "Con":"Normal",
+        "Dex":"Normal",
+        "Per":"Good",
+        "Lea":"Not bad",
+        "Wil":"Good",
+        "Mag":"Great",
+        "Cha":"Not bad",
+        "Life":100,
+        "Mana":100,
+        "Spd":70
+      },
+      "startingSkills":[
+        "Martial Arts",
+        "Literacy",
+        "Casting",
+        "Magic Device",
+        "Investing"
+      ]
+    },
+    "Fairy":{
+      "attribute":{
+        "Str":"Slight",
+        "Con":"Little",
+        "Dex":"Not bad",
+        "Per":"Good",
+        "Lea":"Not bad",
+        "Wil":"Not bad",
+        "Mag":"Great",
+        "Cha":"Great",
+        "Life":40,
+        "Mana":130,
+        "Spd":120
+      },
+      "startingSkills":[
+        "Martial Arts",
+        "Light Armor",
+        "Casting",
+        "Pickpocket",
+        "Cooking"
+      ]
+    },
+    "Dwarf":{
+      "attribute":{
+        "Str":"Good",
+        "Con":"Good",
+        "Dex":"Not bad",
+        "Per":"Normal",
+        "Lea":"Normal",
+        "Wil":"Normal",
+        "Mag":"Normal",
+        "Cha":"Normal",
+        "Life":100,
+        "Mana":100,
+        "Spd":70
+      },
+      "startingSkills":[
+        "Martial Arts",
+        "Mining",
+        "Jeweler",
+        "Cooking",
+        "Gardening"
+      ]
+    },
+    "Juere":{
+      "attribute":{
+        "Str":"Normal",
+        "Con":"Not bad",
+        "Dex":"Great",
+        "Per":"Good",
+        "Lea":"Good",
+        "Wil":"Not bad",
+        "Mag":"Not bad",
+        "Cha":"Good",
+        "Life":100,
+        "Mana":100,
+        "Spd":70
+      },
+      "startingSkills":[
+        "Martial Arts",
+        "Throwing",
+        "Negotiation",
+        "Lock Picking",
+        "Performer"
+      ]
+    },
+    "Elea":{
+      "attribute":{
+        "Str":"Normal",
+        "Con":"Normal",
+        "Dex":"Not bad",
+        "Per":"Not bad",
+        "Lea":"Not bad",
+        "Wil":"Great",
+        "Mag":"Great",
+        "Cha":"Good",
+        "Life":90,
+        "Mana":110,
+        "Spd":70
+      },
+      "startingSkills":[
+        "Martial Arts",
+        "Magic Capacity",
+        "Memorization",
+        "Casting",
+        "Cooking"
+      ]
+    },
+    "Snail":{
+      "attribute":{
+        "Str":"Little",
+        "Con":"Little",
+        "Dex":"Slight",
+        "Per":"Normal",
+        "Lea":"Slight",
+        "Wil":"Little",
+        "Mag":"Slight",
+        "Cha":"Normal",
+        "Life":100,
+        "Mana":80,
+        "Spd":25
+      },
+      "startingSkills":[
+        "Martial Arts",
+        "Throwing"
+      ]
+    },
+    "Lich":{
+      "attribute":{
+        "Str":"Little",
+        "Con":"Not bad",
+        "Dex":"Normal",
+        "Per":"Good",
+        "Lea":"Good",
+        "Wil":"Great",
+        "Mag":"Best",
+        "Cha":"Little",
+        "Life":80,
+        "Mana":140,
+        "Spd":70
+      },
+      "startingSkills":[
+        "Martial Arts",
+        "Meditation",
+        "Casting",
+        "Magic Device",
+        "Gene Engineer"
+      ]
+    },
+    "Goblin":{
+      "attribute":{
+        "Str":"Not bad",
+        "Con":"Not bad",
+        "Dex":"Little",
+        "Per":"Little",
+        "Lea":"Not bad",
+        "Wil":"Normal",
+        "Mag":"Normal",
+        "Cha":"Little",
+        "Life":110,
+        "Mana":90,
+        "Spd":70
+      },
+      "startingSkills":[
+        "Martial Arts",
+        "Healing",
+        "Fishing",
+        "Eye of Mind"
+      ]
+    },
+    "Golem":{
+      "attribute":{
+        "Str":"Good",
+        "Con":"Best",
+        "Dex":"Little",
+        "Per":"Little",
+        "Lea":"Little",
+        "Wil":"Not bad",
+        "Mag":"Normal",
+        "Cha":"Slight",
+        "Life":150,
+        "Mana":70,
+        "Spd":45
+      },
+      "startingSkills":[
+        "Martial Arts",
+        "Weight Lifting",
+        "Mining",
+        "Alchemy"
+      ]
+    },
+    "Mutant":{
+      "attribute":{
+        "Str":"Not bad",
+        "Con":"Little",
+        "Dex":"Little",
+        "Per":"Normal",
+        "Lea":"Normal",
+        "Wil":"Not bad",
+        "Mag":"Normal",
+        "Cha":"Slight",
+        "Life":100,
+        "Mana":100,
+        "Spd":70
+      },
+      "startingSkills":[
+        "Martial Arts",
+        "Healing",
+        "Magic Capacity",
+        "Gene Engineer"
+      ]
+    }
+  },
+  "class":{
+    "Warrior":{
+      "attribute":{
+        "Str":"Good",
+        "Con":"Good",
+        "Dex":"Slight",
+        "Wil":"Slight"
+      }
+    },
+    "Thief":{
+      "attribute":{
+        "Str":"Little",
+        "Con":"Little",
+        "Dex":"Not bad",
+        "Per":"Little",
+        "Lea":"Little"
+      }
+    },
+    "Wizard":{
+      "attribute":{
+        "Per":"Little",
+        "Lea":"Slight",
+        "Wil":"Not bad",
+        "Mag":"Good"
+      }
+    },
+    "Farmer":{
+      "attribute":{
+        "Str":"Little",
+        "Con":"Little",
+        "Dex":"Slight",
+        "Lea":"Not bad",
+        "Wil":"Little"
+      }
+    },
+    "Archer":{
+      "attribute":{
+        "Str":"Normal",
+        "Con":"Little",
+        "Dex":"Not bad",
+        "Per":"Little",
+        "Lea":"Slight"
+      }
+    },
+    "Warmage":{
+      "attribute":{
+        "Str":"Normal",
+        "Con":"Normal",
+        "Dex":"Slight",
+        "Wil":"Little",
+        "Mag":"Normal"
+      }
+    },
+    "Tourist":{
+      "attribute":{
+      }
+    },
+    "Pianist":{
+      "attribute":{
+        "Str":"Normal",
+        "Dex":"Slight",
+        "Per":"Little",
+        "Lea":"Little",
+        "Mag":"Slight",
+        "Cha":"Not bad"
+      }
+    },
+    "Priest":{
+      "attribute":{
+        "Str":"Slight",
+        "Con":"Slight",
+        "Per":"Slight",
+        "Lea":"Slight",
+        "Wil":"Good",
+        "Mag":"Normal",
+        "Cha":"Slight"
+      }
+    },
+    "Claymore":{
+      "attribute":{
+        "Str":"Not bad",
+        "Con":"Slight",
+        "Dex":"Normal",
+        "Per":"Normal",
+        "Mag":"Little"
+      }
+    }
+  }
+}
