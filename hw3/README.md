@@ -1,4 +1,4 @@
-the target website is <https://bhuntr.com/tw/competitions>
+the target website is <https://bhuntr.com/tw/competitions>  
 goal:
 
 <p>get the information of processing competitions(including title, due day, prize, page link, tags), and I want to record all of the appeared tags.</p>
