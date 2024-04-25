@@ -18,6 +18,7 @@
   - w6: crawler, see [hw3](/hw3/hw3.ipynb)
 - 作業區：
   - [hw1](hw1/hw1.ipynb)
-  - [hw2](hw2/hw2.ipynb)
-  - [hw3](hw3/hw3.ipynb), [hw3's README](hw3/README.md)
+  - json and re: [hw2](hw2/hw2.ipynb)
+  - crawler: [hw3](hw3/hw3.ipynb), [hw3's README](hw3/README.md)
+  - LLM, jieba, and network graph: [hw4](hw4/hw4.ipynb), [README file](hw4/README.md)
 - 專題連結區
