@@ -22,4 +22,4 @@ so the competition can be visually linked with each other by keywords and tags
 <!-- the final [graph](https://drive.google.com/file/d/1hD7xN1cXBnYeAWWH-VkzukZcmxOyqx8z/view?usp=sharing) -->
 
 the final graph:
-[![graph](https://drive.google.com/file/d/1hD7xN1cXBnYeAWWH-VkzukZcmxOyqx8z/view?usp=sharing)](https://drive.google.com/file/d/1hD7xN1cXBnYeAWWH-VkzukZcmxOyqx8z/view?usp=sharing)
+[link](https://drive.google.com/file/d/1hD7xN1cXBnYeAWWH-VkzukZcmxOyqx8z/view?usp=sharing)
