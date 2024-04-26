@@ -21,5 +21,6 @@ so the competition can be visually linked with each other by keywords and tags
 
 <!-- the final [graph](https://drive.google.com/file/d/1hD7xN1cXBnYeAWWH-VkzukZcmxOyqx8z/view?usp=sharing) -->
 
-the final graph:
-[link](https://drive.google.com/file/d/1hD7xN1cXBnYeAWWH-VkzukZcmxOyqx8z/view?usp=sharing)
+the final graph:  
+directly using pipeline:(with 15 datas) [here](https://drive.google.com/file/d/1hD7xN1cXBnYeAWWH-VkzukZcmxOyqx8z/view?usp=sharing)  
+with 30 data: [here](https://drive.google.com/file/d/1HoRmo0QYvsoFT_GoRwQbQfxkTfzQj7Gz/view?usp=sharing)
