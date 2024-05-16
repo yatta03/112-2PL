@@ -22,3 +22,5 @@
   - crawler: [hw3](hw3/hw3.ipynb), [hw3's README](hw3/README.md)
   - LLM, jieba, and network graph: [hw4](hw4/hw4.ipynb), [README file](hw4/README.md)
 - 專題連結區
+  - 專題資料夾：[project](project/)
+  - 第一次進度：[藥品](project/med.ipynb)
