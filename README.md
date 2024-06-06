@@ -23,4 +23,5 @@
   - LLM, jieba, and network graph: [hw4](hw4/hw4.ipynb), [README file](hw4/README.md)
 - 專題連結區
   - 專題資料夾：[project](project/)
-  - 第一次進度：[藥品](project/med.ipynb)
+  - 第一次進度：[藥品](project/med.ipynb)  
+  - 最終成品[資料夾連結](https://drive.google.com/drive/folders/11ZENqsDnFIJJyy89xUQrfjmbdY-xGpA6?usp=sharing)  
